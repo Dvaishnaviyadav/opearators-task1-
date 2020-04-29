@@ -1,2 +1,2 @@
-# opearators-task1-
+# operators-task1-
 basic programs on operators
